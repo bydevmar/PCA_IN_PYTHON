@@ -33,8 +33,8 @@ Ce guide est conçu pour les professionnels et les étudiants intéressés par l
 Les contributions sont les bienvenues! Si vous trouvez des erreurs, des incohérences ou si vous souhaitez ajouter du contenu supplémentaire, n'hésitez pas à ouvrir une issue ou à soumettre une demande d'extraction.
 
 
-**Auteur:** - BOUHLALI ABDELFATTAH 
-            - MASSAD BADRE
+**Auteur:** - BOUHLALI ABDELFATTAH \
+            - MASSAD BADRE \
             - AMZIR YASSINE
             - GAJJJA NOUR EDDIN
 **Prof:** - AISSAM HADRI 
